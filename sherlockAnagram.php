@@ -1,12 +1,10 @@
 <?php
 
-$a = "abbaabbaabbaabba";
+$s = "abbaabbaabbaabba";
 
-echo sherlockAndAnagrams($a);
+echo sherlockAndAnagrams($s);
 
 function sherlockAndAnagrams($s) {
-
-    $s = "abba";
     $n = strlen($s);
     $l=-1;
     $c1 = [];
