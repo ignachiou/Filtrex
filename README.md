@@ -1,2 +1,2 @@
 # filtrex
- This are sample codes
+ These are sample codes
